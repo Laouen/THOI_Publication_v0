@@ -22586,19 +22586,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77557728"
-     inkscape:cx="756.21775"
-     inkscape:cy="550.47039"
+     inkscape:zoom="0.54841595"
+     inkscape:cx="968.89077"
+     inkscape:cy="492.06752"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8781-2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1129"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -22637,14 +22638,14 @@
          id="tspan15895"
          x="93.765221"
          y="160.53767"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332">Greedy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332">Greedy</tspan></text>
     <text
        id="text15901"
        y="160.58598"
        x="264.49274"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:473.70001221;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332"
          y="160.58598"
          x="264.49274"
          id="tspan15899"
@@ -22655,7 +22656,7 @@
        x="233.12961"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:473.70001221;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332"
          y="186.89127"
          x="233.12961"
          id="tspan15903"
@@ -22670,7 +22671,7 @@
          id="tspan15907"
          x="334.45279"
          y="186.89127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332">Minimization</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332">Minimization</tspan></text>
     <g
        style="stroke-width:1.21920002"
        id="g29039"
@@ -22685,14 +22686,14 @@
          id="tspan33111"
          x="37.012939"
          y="186.89127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332">Maximization</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332">Maximization</tspan></text>
     <text
        id="text33117"
        y="186.89127"
        x="138.33611"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:473.70001221;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332"
          y="186.89127"
          x="138.33611"
          id="tspan33115"
@@ -22765,7 +22766,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38074"
-                 style="stroke-width:1.25046146">10</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">10</tspan>
             </text>
           </g>
           <path
@@ -22786,7 +22787,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38082"
-                 style="stroke-width:1.25046146">20</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">20</tspan>
             </text>
           </g>
           <path
@@ -22807,7 +22808,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38090"
-                 style="stroke-width:1.25046146">30</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">30</tspan>
             </text>
           </g>
           <path
@@ -22828,7 +22829,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38098"
-                 style="stroke-width:1.25046146">40</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">40</tspan>
             </text>
           </g>
           <path
@@ -22849,23 +22850,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38106"
-                 style="stroke-width:1.25046146">50</tspan>
-            </text>
-          </g>
-          <g
-             id="g38110"
-             transform="translate(282.16094,24.6085)"
-             style="stroke-width:1.25046146">
-            <text
-               transform="scale(1,-1)"
-               style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-               id="text38114">
-              <tspan
-                 x="0 15.74 23.616249 36.31625 48.616249"
-                 y="0"
-                 sodipodi:role="line"
-                 id="tspan38112"
-                 style="stroke-width:1.25046146">Order</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">50</tspan>
             </text>
           </g>
           <path
@@ -22886,7 +22871,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38120"
-                 style="stroke-width:1.25046146">0.0</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.0</tspan>
             </text>
           </g>
           <path
@@ -22907,7 +22892,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38128"
-                 style="stroke-width:1.25046146">2.5</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2.5</tspan>
             </text>
           </g>
           <path
@@ -22928,7 +22913,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38136"
-                 style="stroke-width:1.25046146">5.0</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">5.0</tspan>
             </text>
           </g>
           <path
@@ -22949,7 +22934,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38144"
-                 style="stroke-width:1.25046146">7.5</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">7.5</tspan>
             </text>
           </g>
           <path
@@ -22970,7 +22955,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38152"
-                 style="stroke-width:1.25046146">10.0</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">10.0</tspan>
             </text>
           </g>
           <path
@@ -22991,7 +22976,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38160"
-                 style="stroke-width:1.25046146">12.5</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">12.5</tspan>
             </text>
           </g>
           <path
@@ -23012,7 +22997,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38168"
-                 style="stroke-width:1.25046146">15.0</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">15.0</tspan>
             </text>
           </g>
           <path
@@ -23033,7 +23018,7 @@
                  y="0"
                  sodipodi:role="line"
                  id="tspan38176"
-                 style="stroke-width:1.25046146">17.5</tspan>
+                 style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">17.5</tspan>
             </text>
           </g>
           <g
@@ -23060,6 +23045,18 @@
               </g>
             </g>
           </g>
+          <text
+             id="text8992-7-8"
+             y="-23.57143"
+             x="281.46176"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25415421px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14342201"
+             xml:space="preserve"
+             transform="scale(1,-1)"><tspan
+               style="font-size:25.00923157px;stroke-width:1.14342201"
+               y="-23.57143"
+               x="281.46176"
+               id="tspan8990-6-7"
+               sodipodi:role="line">Order</tspan></text>
         </g>
         <g
            id="g38194"
@@ -23145,64 +23142,28 @@
              style="fill:#ffffff;fill-opacity:0.8;fill-rule:nonzero;stroke:#cccccc;stroke-width:1.00036919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.8"
              id="path38244"
              inkscape:connector-curvature="0" />
-          <g
-             id="g38246"
-             transform="translate(444.08806,132.91787)"
-             style="stroke-width:1.25046146">
-            <text
-               transform="scale(1,-1)"
-               style="font-variant:normal;font-weight:normal;font-size:19.20000076px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-               id="text38250">
-              <tspan
-                 x="0 12.192 19.718399 31.488001 39.0144"
-                 y="0"
-                 sodipodi:role="line"
-                 id="tspan38248"
-                 style="stroke-width:1.25046146">State</tspan>
-            </text>
-          </g>
           <path
              d="m 421.30525,108.8085 h 32 v 11.2 h -32 z"
              style="fill:#2ca02c;fill-opacity:1;fill-rule:nonzero;stroke:#2ca02c;stroke-width:1.00036919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path38252"
              inkscape:connector-curvature="0" />
-          <g
-             id="g38254"
-             transform="translate(466.10525,108.8085)"
-             style="stroke-width:1.25046146">
-            <text
-               transform="scale(1,-1)"
-               style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-               id="text38258">
-              <tspan
-                 x="0 10.303375 23.391375 33.199375 41.900875"
-                 y="0"
-                 sodipodi:role="line"
-                 id="tspan38256"
-                 style="stroke-width:1.25046146">Awake</tspan>
-            </text>
-          </g>
           <path
              d="m 421.30525,85.324125 h 32 v 11.2 h -32 z"
              style="fill:#9467bd;fill-opacity:1;fill-rule:nonzero;stroke:#9467bd;stroke-width:1.00036919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path38260"
              inkscape:connector-curvature="0" />
-          <g
-             id="g38262"
-             transform="translate(466.10525,85.324125)"
-             style="stroke-width:1.25046146">
-            <text
-               transform="scale(1,-1)"
-               style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-               id="text38266">
-              <tspan
-                 x="0 12.32 22.16 32"
-                 y="0"
-                 sodipodi:role="line"
-                 id="tspan38264"
-                 style="stroke-width:1.25046146">Deep</tspan>
-            </text>
-          </g>
+          <text
+             id="text8828"
+             y="-132.87044"
+             x="446.67715"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25415421px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93784612"
+             xml:space="preserve"
+             transform="scale(1,-1)"><tspan
+               style="font-size:22.50831223px;stroke-width:0.93784612"
+               y="-132.87044"
+               x="446.67715"
+               id="tspan8826"
+               sodipodi:role="line">State</tspan></text>
         </g>
       </g>
       <g
@@ -23629,7 +23590,7 @@
        id="text15921"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
       <tspan
-         style="stroke-width:0.35277778"
+         style="stroke-width:0.35277778;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan15919"
          sodipodi:role="line"
          y="6.0676746"
@@ -23645,7 +23606,7 @@
          y="6.0676746"
          sodipodi:role="line"
          id="tspan2619"
-         style="stroke-width:0.35277778">A</tspan>
+         style="stroke-width:0.35277778;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">A</tspan>
     </text>
     <text
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
@@ -23657,7 +23618,7 @@
          y="155.17389"
          sodipodi:role="line"
          id="tspan15923"
-         style="stroke-width:0.35277778">D</tspan>
+         style="stroke-width:0.35277778;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">D</tspan>
     </text>
     <text
        xml:space="preserve"
@@ -23669,14 +23630,14 @@
          id="tspan53155"
          x="332.53937"
          y="18.543589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.26458332">Whole brain</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52500057px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:0.26458332">Whole brain</tspan></text>
     <text
        y="6.1581082"
        x="305.45776"
        id="text54886"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
       <tspan
-         style="stroke-width:0.35277778"
+         style="stroke-width:0.35277778;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan54884"
          sodipodi:role="line"
          y="6.1581082"
@@ -23688,7 +23649,7 @@
        id="text9340"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
       <tspan
-         style="stroke-width:0.35277778"
+         style="stroke-width:0.35277778;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan9338"
          sodipodi:role="line"
          y="155.17389"
@@ -23750,54 +23711,35 @@
            id="g9384"
            style="stroke-width:1.21920002">
           <text
-             id="text9388"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan9386"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+             x="0.63984579"
+             y="0.25914976"
+             id="text8850-4-8"
+             transform="scale(1,-1)"><tspan
                sodipodi:role="line"
-               y="0"
-               x="0 10.303375 23.391375 33.199375 41.900875"
-               style="stroke-width:1.21920002">Awake</tspan>
-          </text>
+               id="tspan8848-2-9"
+               x="0.63984579"
+               y="0.25914976"
+               style="font-size:18.28800392px;stroke-width:0.91439992">Awake</tspan></text>
+          <text
+             id="text8854-2-2"
+             y="-0.069241308"
+             x="130.40689"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+             xml:space="preserve"
+             transform="scale(1,-1)"><tspan
+               style="font-size:18.28800392px;stroke-width:0.91439992"
+               y="-0.069241308"
+               x="130.40689"
+               id="tspan8852-6-8"
+               sodipodi:role="line">Deep</tspan></text>
         </g>
         <path
            inkscape:connector-curvature="0"
            id="path9390"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 263.192,67.596 v -4.8" />
-        <g
-           transform="translate(242.10606,47.13975)"
-           id="g9392-2"
-           style="stroke-width:1.21920002">
-          <text
-             id="text9396"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan9394"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.32 22.16 32"
-               style="stroke-width:1.21920002">Deep</tspan>
-          </text>
-        </g>
-        <g
-           transform="translate(175.04344,24.6085)"
-           id="g9398"
-           style="stroke-width:1.21920002">
-          <text
-             id="text9402"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan9400"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.7 20.540001 32.799999 40.639999"
-               style="stroke-width:1.21920002">State</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path9404"
@@ -23816,7 +23758,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">0.25</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.25</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -23856,7 +23798,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">0.00</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.00</tspan>
           </text>
         </g>
         <path
@@ -23877,7 +23819,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">0.25</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.25</tspan>
           </text>
         </g>
         <path
@@ -23898,7 +23840,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">0.50</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.50</tspan>
           </text>
         </g>
         <path
@@ -23919,7 +23861,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">0.75</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.75</tspan>
           </text>
         </g>
         <path
@@ -23940,7 +23882,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">1.00</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.00</tspan>
           </text>
         </g>
         <path
@@ -23961,7 +23903,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">1.25</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.25</tspan>
           </text>
         </g>
         <path
@@ -23982,9 +23924,21 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264 25.440001"
-               style="stroke-width:1.21920002">1.50</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.50</tspan>
           </text>
         </g>
+        <text
+           id="text8992"
+           y="-23.816336"
+           x="176.84798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11483645"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:24.38400078px;stroke-width:1.11483645"
+             y="-23.816336"
+             x="176.84798"
+             id="tspan8990"
+             sodipodi:role="line">State</tspan></text>
       </g>
       <g
          id="g9480"
@@ -25558,54 +25512,6 @@
           </g>
         </g>
       </g>
-      <g
-         transform="translate(90.5104,318.84872)"
-         id="g10498-8"
-         style="stroke-width:1.21920002">
-        <text
-           id="text10502"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan10500"
-             sodipodi:role="line"
-             y="0"
-             x="0 14.166 21.251499 32.681499 43.751499 50.837002 56.903 62.626999 74.074997"
-             style="stroke-width:1.21920002">Order: 12</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(90.5104,298.69247)"
-         id="g10504"
-         style="stroke-width:1.21920002">
-        <text
-           id="text10508"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan10506"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84 63.287998 74.358002 80.856003 92.304001"
-             style="stroke-width:1.21920002">p: 3.05e-05</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(90.5104,278.53622)"
-         id="g10510-8"
-         style="stroke-width:1.21920002">
-        <text
-           id="text10514"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan10512"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84"
-             style="stroke-width:1.21920002">d: 2.92</tspan>
-        </text>
-      </g>
     </g>
     <g
        transform="matrix(0.28935185,0,0,-0.28935185,307.59967,297)"
@@ -25658,59 +25564,11 @@
            id="path11133"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 122.0955,67.596 v -4.8" />
-        <g
-           transform="translate(96.236125,47.13975)"
-           id="g11135"
-           style="stroke-width:1.21920002">
-          <text
-             id="text11139"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan11137"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.303375 23.391375 33.199375 41.900875"
-               style="stroke-width:1.21920002">Awake</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path11141"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 257.2745,67.596 v -4.8" />
-        <g
-           transform="translate(236.18856,47.13975)"
-           id="g11143"
-           style="stroke-width:1.21920002">
-          <text
-             id="text11147"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan11145"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.32 22.16 32"
-               style="stroke-width:1.21920002">Deep</tspan>
-          </text>
-        </g>
-        <g
-           transform="translate(163.20844,24.6085)"
-           id="g11149"
-           style="stroke-width:1.21920002">
-          <text
-             id="text11153"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan11151"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.7 20.540001 32.799999 40.639999"
-               style="stroke-width:1.21920002">State</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path11155"
@@ -25729,7 +25587,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.2</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.2</tspan>
           </text>
         </g>
         <path
@@ -25750,7 +25608,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.4</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.4</tspan>
           </text>
         </g>
         <path
@@ -25771,7 +25629,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.6</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.6</tspan>
           </text>
         </g>
         <path
@@ -25792,7 +25650,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.8</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.8</tspan>
           </text>
         </g>
         <path
@@ -25813,7 +25671,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.0</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.0</tspan>
           </text>
         </g>
         <path
@@ -25834,9 +25692,45 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.2</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.2</tspan>
           </text>
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           x="96.875969"
+           y="-46.8806"
+           id="text8850-4-86"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8848-2-8"
+             x="96.875969"
+             y="-46.8806"
+             style="font-size:18.28800392px;stroke-width:0.91439992">Awake</tspan></text>
+        <text
+           id="text8854-2-3"
+           y="-47.208992"
+           x="238.47801"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:18.28800392px;stroke-width:0.91439992"
+             y="-47.208992"
+             x="238.47801"
+             id="tspan8852-6-83"
+             sodipodi:role="line">Deep</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11483645"
+           x="163.51395"
+           y="-23.157156"
+           id="text8988"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8986"
+             x="163.51395"
+             y="-23.157156"
+             style="font-size:24.38400078px;stroke-width:1.11483645">State</tspan></text>
       </g>
       <g
          id="g11203"
@@ -27410,54 +27304,6 @@
           </g>
         </g>
       </g>
-      <g
-         transform="translate(189.685,318.84872)"
-         id="g12221"
-         style="stroke-width:1.21920002">
-        <text
-           id="text12225"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan12223"
-             sodipodi:role="line"
-             y="0"
-             x="0 14.166 21.251499 32.681499 43.751499 50.837002 56.903 62.626999 74.074997"
-             style="stroke-width:1.21920002">Order: 13</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(189.685,298.69247)"
-         id="g12227"
-         style="stroke-width:1.21920002">
-        <text
-           id="text12231"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan12229"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84 63.287998 74.358002 80.856003 92.304001"
-             style="stroke-width:1.21920002">p: 3.05e-05</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(189.685,278.53622)"
-         id="g12233"
-         style="stroke-width:1.21920002">
-        <text
-           id="text12237"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan12235"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 29.718 41.166 46.889999 58.338001"
-             style="stroke-width:1.21920002">d: -4.77</tspan>
-        </text>
-      </g>
     </g>
     <g
        transform="matrix(0.28935185,0,0,-0.28935185,109.07946,297)"
@@ -27510,59 +27356,11 @@
            id="path14539"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 122.0955,67.596 v -4.8" />
-        <g
-           transform="translate(96.236125,47.13975)"
-           id="g14541"
-           style="stroke-width:1.21920002">
-          <text
-             id="text14545"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan14543"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.303375 23.391375 33.199375 41.900875"
-               style="stroke-width:1.21920002">Awake</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path14547"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 257.2745,67.596 v -4.8" />
-        <g
-           transform="translate(236.18856,47.13975)"
-           id="g14549"
-           style="stroke-width:1.21920002">
-          <text
-             id="text14553"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan14551"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.32 22.16 32"
-               style="stroke-width:1.21920002">Deep</tspan>
-          </text>
-        </g>
-        <g
-           transform="translate(163.20844,24.6085)"
-           id="g14555"
-           style="stroke-width:1.21920002">
-          <text
-             id="text14559"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan14557"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.7 20.540001 32.799999 40.639999"
-               style="stroke-width:1.21920002">State</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path14561"
@@ -27581,7 +27379,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.4</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.4</tspan>
           </text>
         </g>
         <path
@@ -27602,7 +27400,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.6</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.6</tspan>
           </text>
         </g>
         <path
@@ -27623,7 +27421,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.8</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.8</tspan>
           </text>
         </g>
         <path
@@ -27644,7 +27442,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.0</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.0</tspan>
           </text>
         </g>
         <path
@@ -27665,7 +27463,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.2</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.2</tspan>
           </text>
         </g>
         <path
@@ -27686,7 +27484,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.4</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.4</tspan>
           </text>
         </g>
         <path
@@ -27707,9 +27505,45 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">1.6</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1.6</tspan>
           </text>
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           x="96.875969"
+           y="-46.8806"
+           id="text8850-4"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8848-2"
+             x="96.875969"
+             y="-46.8806"
+             style="font-size:18.28800392px;stroke-width:0.91439992">Awake</tspan></text>
+        <text
+           id="text8854-2"
+           y="-47.208992"
+           x="238.47801"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:18.28800392px;stroke-width:0.91439992"
+             y="-47.208992"
+             x="238.47801"
+             id="tspan8852-6"
+             sodipodi:role="line">Deep</tspan></text>
+        <text
+           id="text8992-0"
+           y="-23.816336"
+           x="165.01297"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11483645"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:24.38400078px;stroke-width:1.11483645"
+             y="-23.816336"
+             x="165.01297"
+             id="tspan8990-4"
+             sodipodi:role="line">State</tspan></text>
       </g>
       <g
          id="g14617"
@@ -29283,54 +29117,6 @@
           </g>
         </g>
       </g>
-      <g
-         transform="translate(189.685,318.84872)"
-         id="g15635"
-         style="stroke-width:1.21920002">
-        <text
-           id="text15639"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan15637"
-             sodipodi:role="line"
-             y="0"
-             x="0 14.166 21.251499 32.681499 43.751499 50.837002 56.903 62.626999 74.074997"
-             style="stroke-width:1.21920002">Order: 14</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(189.685,298.69247)"
-         id="g15641"
-         style="stroke-width:1.21920002">
-        <text
-           id="text15645"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan15643"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84 63.287998 74.358002 80.856003 92.304001"
-             style="stroke-width:1.21920002">p: 3.05e-05</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(189.685,278.53622)"
-         id="g15647"
-         style="stroke-width:1.21920002">
-        <text
-           id="text15651"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan15649"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 29.718 41.166 46.889999 58.338001"
-             style="stroke-width:1.21920002">d: -3.99</tspan>
-        </text>
-      </g>
     </g>
     <path
        style="fill:none;stroke:#666666;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.19999994, 3.19999994;stroke-dashoffset:0;stroke-opacity:1"
@@ -29395,59 +29181,11 @@
            id="path8413"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 132.153,67.596 v -4.8" />
-        <g
-           transform="translate(106.29363,47.13975)"
-           id="g8415"
-           style="stroke-width:1.21920002">
-          <text
-             id="text8419"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan8417"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.303375 23.391375 33.199375 41.900875"
-               style="stroke-width:1.21920002">Awake</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path8421"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 260.627,67.596 v -4.8" />
-        <g
-           transform="translate(239.54106,47.13975)"
-           id="g8423"
-           style="stroke-width:1.21920002">
-          <text
-             id="text8427"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan8425"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.32 22.16 32"
-               style="stroke-width:1.21920002">Deep</tspan>
-          </text>
-        </g>
-        <g
-           transform="translate(169.91344,24.6085)"
-           id="g8429"
-           style="stroke-width:1.21920002">
-          <text
-             id="text8433"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan8431"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.7 20.540001 32.799999 40.639999"
-               style="stroke-width:1.21920002">State</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path8435"
@@ -29466,7 +29204,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.2</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.2</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -29506,7 +29244,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.0</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.0</tspan>
           </text>
         </g>
         <path
@@ -29527,7 +29265,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.2</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.2</tspan>
           </text>
         </g>
         <path
@@ -29548,7 +29286,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.4</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.4</tspan>
           </text>
         </g>
         <path
@@ -29569,7 +29307,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.6</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.6</tspan>
           </text>
         </g>
         <path
@@ -29590,9 +29328,45 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176 15.264"
-               style="stroke-width:1.21920002">0.8</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0.8</tspan>
           </text>
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           x="106.93348"
+           y="-46.8806"
+           id="text8850"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8848"
+             x="106.93348"
+             y="-46.8806"
+             style="font-size:18.28800392px;stroke-width:0.91439992">Awake</tspan></text>
+        <text
+           id="text8854"
+           y="-47.208992"
+           x="241.83052"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:18.28800392px;stroke-width:0.91439992"
+             y="-47.208992"
+             x="241.83052"
+             id="tspan8852"
+             sodipodi:role="line">Deep</tspan></text>
+        <text
+           id="text8992-7"
+           y="-23.816336"
+           x="171.71797"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11483645"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:24.38400078px;stroke-width:1.11483645"
+             y="-23.816336"
+             x="171.71797"
+             id="tspan8990-6"
+             sodipodi:role="line">State</tspan></text>
       </g>
       <g
          id="g8495"
@@ -31166,54 +30940,6 @@
           </g>
         </g>
       </g>
-      <g
-         transform="translate(80.7634,315.24325)"
-         id="g9513"
-         style="stroke-width:1.21920002">
-        <text
-           id="text9517"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan9515"
-             sodipodi:role="line"
-             y="0"
-             x="0 14.166 21.251499 32.681499 43.751499 50.837002 56.903 62.626999"
-             style="stroke-width:1.21920002">Order: 8</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(80.7634,295.087)"
-         id="g9519"
-         style="stroke-width:1.21920002">
-        <text
-           id="text9523"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan9521"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84 63.287998 74.358002 80.856003 92.304001"
-             style="stroke-width:1.21920002">p: 3.05e-05</tspan>
-        </text>
-      </g>
-      <g
-         transform="translate(80.7634,274.93075)"
-         id="g9525"
-         style="stroke-width:1.21920002">
-        <text
-           id="text9529"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-           transform="scale(1,-1)">
-          <tspan
-             id="tspan9527"
-             sodipodi:role="line"
-             y="0"
-             x="0 11.43 17.496 23.219999 34.667999 40.391998 51.84"
-             style="stroke-width:1.21920002">d: 3.12</tspan>
-        </text>
-      </g>
     </g>
     <g
        transform="matrix(0.28211806,0,0,-0.28211806,154.70222,144.47502)"
@@ -31491,22 +31217,6 @@
                style="stroke-width:1.25046146">55</tspan>
           </text>
         </g>
-        <g
-           transform="translate(270.95594,24.6085)"
-           id="g8871-1"
-           style="stroke-width:1.25046146">
-          <text
-             id="text8875"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan8873"
-               sodipodi:role="line"
-               y="0"
-               x="0 15.74 23.616249 36.31625 48.616249"
-               style="stroke-width:1.25046146">Order</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path8877-8"
@@ -31524,7 +31234,7 @@
                id="tspan8881"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">4</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">4</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -31563,7 +31273,7 @@
                id="tspan8901"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">3</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">3</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -31602,7 +31312,7 @@
                id="tspan8921"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">2</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -31641,7 +31351,7 @@
                id="tspan8941"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">1</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan>
           </text>
           <g
              transform="scale(0.016)"
@@ -31680,7 +31390,7 @@
                id="tspan8961"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">0</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0</tspan>
           </text>
         </g>
         <path
@@ -31700,7 +31410,7 @@
                id="tspan8969"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">1</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan>
           </text>
         </g>
         <path
@@ -31720,7 +31430,7 @@
                id="tspan8977"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">2</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan>
           </text>
         </g>
         <path
@@ -31740,7 +31450,7 @@
                id="tspan8985"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">3</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">3</tspan>
           </text>
         </g>
         <path
@@ -31760,25 +31470,33 @@
                id="tspan8993"
                y="0"
                x="0"
-               style="stroke-width:1.25046146">4</tspan>
+               style="stroke-width:1.25046146;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">4</tspan>
           </text>
         </g>
-        <g
-           transform="rotate(90,-89.990281,126.71628)"
-           id="g8997-9"
-           style="stroke-width:1.25046146">
-          <text
-             id="text9001"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan8999"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.64 19.68 26.719999 39.02 50.02 57.860001 64.220001 74.639999 80.199997 90.699997"
-               style="stroke-width:1.25046146">Effect size</tspan>
-          </text>
-        </g>
+        <text
+           id="text8992-7-8-9"
+           y="-23.57143"
+           x="270.25677"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25415421px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14342201"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:25.00923157px;stroke-width:1.14342201"
+             y="-23.57143"
+             x="270.25677"
+             id="tspan8990-6-7-0"
+             sodipodi:role="line">Order</tspan></text>
+        <text
+           id="text8992-7-8-9-9"
+           y="37.781387"
+           x="215.87375"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25415421px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14342201"
+           xml:space="preserve"
+           transform="matrix(0,1,1,0,0,0)"><tspan
+             style="font-size:25.00923157px;stroke-width:1.14342201"
+             y="37.781387"
+             x="215.87375"
+             id="tspan8990-6-7-0-6"
+             sodipodi:role="line">Effect size</tspan></text>
       </g>
       <g
          id="g9003"
@@ -31855,43 +31573,11 @@
            id="path9045"
            style="fill:none;stroke:#d62728;stroke-width:2.50092292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 266.9515,447.90775 h 16 16" />
-        <g
-           transform="translate(311.7515,442.30775)"
-           id="g9047"
-           style="stroke-width:1.25046146">
-          <text
-             id="text9051"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan9049"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.112 15.744 21.375999 31.216 40.015999 46.287998 51.375999 59.712002 64.160004 72.559998 82.400002 87.487999 103.072 112.88 122.352 126.8 142.384 146.832 155.23199 165.03999 171.312 175.75999 185.552"
-               style="stroke-width:1.25046146">Effect size maximization</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path9053"
            style="fill:none;stroke:#1f77b4;stroke-width:2.50092292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 266.9515,424.42337 h 16 16" />
-        <g
-           transform="translate(311.7515,418.82337)"
-           id="g9055-2"
-           style="stroke-width:1.25046146">
-          <text
-             id="text9059"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25046146"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan9057"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.112 15.744 21.375999 31.216 40.015999 46.287998 51.375999 59.712002 64.160004 72.559998 82.400002 87.487999 103.072 107.52 117.664 122.112 137.696 142.144 150.54401 160.35201 166.62399 171.07201 180.864"
-               style="stroke-width:1.25046146">Effect size minimization</tspan>
-          </text>
-        </g>
       </g>
     </g>
     <g
@@ -31969,59 +31655,11 @@
            id="path16260"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 118.3155,67.596 v -4.8" />
-        <g
-           transform="translate(92.456125,47.13975)"
-           id="g16262"
-           style="stroke-width:1.21920002">
-          <text
-             id="text16266"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan16264"
-               sodipodi:role="line"
-               y="0"
-               x="0 10.303375 23.391375 33.199375 41.900875"
-               style="stroke-width:1.21920002">Awake</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path16268"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21920002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 256.0145,67.596 v -4.8" />
-        <g
-           transform="translate(234.92856,47.13975)"
-           id="g16270"
-           style="stroke-width:1.21920002">
-          <text
-             id="text16274"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan16272"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.32 22.16 32"
-               style="stroke-width:1.21920002">Deep</tspan>
-          </text>
-        </g>
-        <g
-           transform="translate(160.68844,24.6085)"
-           id="g16276"
-           style="stroke-width:1.21920002">
-          <text
-             id="text16280"
-             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21920002"
-             transform="scale(1,-1)">
-            <tspan
-               id="tspan16278"
-               sodipodi:role="line"
-               y="0"
-               x="0 12.7 20.540001 32.799999 40.639999"
-               style="stroke-width:1.21920002">State</tspan>
-          </text>
-        </g>
         <path
            inkscape:connector-curvature="0"
            id="path16282"
@@ -32040,7 +31678,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">10</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">10</tspan>
           </text>
         </g>
         <path
@@ -32061,7 +31699,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">12</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">12</tspan>
           </text>
         </g>
         <path
@@ -32082,7 +31720,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">14</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">14</tspan>
           </text>
         </g>
         <path
@@ -32103,7 +31741,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">16</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">16</tspan>
           </text>
         </g>
         <path
@@ -32124,7 +31762,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">18</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">18</tspan>
           </text>
         </g>
         <path
@@ -32145,7 +31783,7 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">20</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">20</tspan>
           </text>
         </g>
         <path
@@ -32166,9 +31804,45 @@
                sodipodi:role="line"
                y="0"
                x="0 10.176"
-               style="stroke-width:1.21920002">22</tspan>
+               style="stroke-width:1.21920002;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">22</tspan>
           </text>
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11483645"
+           x="162.49297"
+           y="-23.816336"
+           id="text8988-3"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8986-3"
+             x="162.49297"
+             y="-23.816336"
+             style="font-size:24.38400078px;stroke-width:1.11483645">State</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           x="93.09597"
+           y="-46.8806"
+           id="text8850-4-86-6"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan8848-2-8-5"
+             x="93.09597"
+             y="-46.8806"
+             style="font-size:18.28800392px;stroke-width:0.91439992">Awake</tspan></text>
+        <text
+           id="text8854-2-3-2"
+           y="-47.208992"
+           x="237.21802"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97280025px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91439992"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:18.28800392px;stroke-width:0.91439992"
+             y="-47.208992"
+             x="237.21802"
+             id="tspan8852-6-83-6"
+             sodipodi:role="line">Deep</tspan></text>
       </g>
       <g
          id="g16338"
@@ -33815,5 +33489,133 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.289059"
+       y="205.33446"
+       id="text8770"><tspan
+         sodipodi:role="line"
+         id="tspan8768"
+         x="33.289059"
+         y="205.33446"
+         style="font-size:5.64444444px;stroke-width:0.26458332">Order: 8</tspan><tspan
+         sodipodi:role="line"
+         x="33.289059"
+         y="211.50807"
+         style="font-size:5.64444444px;stroke-width:0.26458332"
+         id="tspan8772">p: 3.05e-05</tspan><tspan
+         sodipodi:role="line"
+         x="33.289059"
+         y="217.68169"
+         style="font-size:5.64444444px;stroke-width:0.26458332"
+         id="tspan8774">d: 3.12</tspan></text>
+    <text
+       id="text8782"
+       y="204.36957"
+       x="173.68204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="204.36957"
+         x="173.68204"
+         id="tspan8776"
+         sodipodi:role="line">Order: 14</tspan><tspan
+         id="tspan8778"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="211.42513"
+         x="173.68204"
+         sodipodi:role="line">p: 3.05e-05</tspan><tspan
+         id="tspan8780"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="218.48068"
+         x="173.68204"
+         sodipodi:role="line">d: -3.99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="234.71198"
+       y="203.88712"
+       id="text8790"><tspan
+         sodipodi:role="line"
+         id="tspan8784"
+         x="234.71198"
+         y="203.88712"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Order: 12</tspan><tspan
+         sodipodi:role="line"
+         x="234.71198"
+         y="210.94267"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         id="tspan8786">p: 3.05e-05</tspan><tspan
+         sodipodi:role="line"
+         x="234.71198"
+         y="217.99823"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         id="tspan8788">d: 2.92</tspan></text>
+    <text
+       id="text8798"
+       y="205.33446"
+       x="372.21024"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="205.33446"
+         x="372.21024"
+         id="tspan8792"
+         sodipodi:role="line">Order: 13</tspan><tspan
+         id="tspan8794"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="212.39001"
+         x="372.21024"
+         sodipodi:role="line">p: 3.05e-05</tspan><tspan
+         id="tspan8796"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="219.44557"
+         x="372.21024"
+         sodipodi:role="line">d: -4.77</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="241.18861"
+       y="20.161856"
+       id="text8802"><tspan
+         sodipodi:role="line"
+         id="tspan8800"
+         x="241.18861"
+         y="20.161856"
+         style="font-size:5.29166746px;stroke-width:0.26458332">Effect size maximization</tspan></text>
+    <text
+       id="text8806"
+       y="26.302443"
+       x="241.18861"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:5.29166746px;stroke-width:0.26458332"
+         y="26.302443"
+         x="241.18861"
+         id="tspan8804"
+         sodipodi:role="line">Effect size minimization</tspan></text>
+    <text
+       id="text8810"
+       y="120.45811"
+       x="130.36598"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:5.29166746px;stroke-width:0.26458332"
+         y="120.45811"
+         x="130.36598"
+         id="tspan8808"
+         sodipodi:role="line">Awake</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.31689"
+       y="113.97639"
+       id="text8814"><tspan
+         sodipodi:role="line"
+         id="tspan8812"
+         x="130.31689"
+         y="113.97639"
+         style="font-size:5.29166746px;stroke-width:0.26458332">Deep</tspan></text>
   </g>
 </svg>
